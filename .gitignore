@@ -1,0 +1,15 @@
+# Ignore API Keys
+.env
+
+# Ignore Python Virtual Environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
